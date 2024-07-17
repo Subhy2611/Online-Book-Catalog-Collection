@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "60fd3fcaaf407a0d6383cfe3"
+  },
+  "book-title": "So the Wind Won't Blow It All Away",
+  "book-author": "Richard Brautigan",
+  "book-ISBN": "780385292870",
+  "book-pages": "131",
+  "book-brief-description": "So the Wind Won't Blow it all Away is a beautifully-written, brooding gem of a novel - set in the Pacific Northwest region of Oregon where Brautigan spent most of his childhood. Through the eyes, ears and voice of Brautigan's youthful protagonist the reader is gently led into a small-town tale where the narrator accidentally shoots dead his best friend with a gun. The novel deals with the repercussions of this tragedy and its recurring theme of 'What if...' fuels anguish, regret and self-blame as well as some darkly comic passages of bitter-sweet romance and despair."
+},
+{
+  "_id": {
+    "$oid": "60fd485daf407a0d6383cfe4"
+  },
+  "book-title": "Owls Are Good at Keeping Secrets",
+  "book-author": "Sara O'Leary",
+  "book-ISBN": "9781524713317",
+  "book-pages": "34",
+  "book-brief-description": "A delightful book of curious, little-known “facts” about animals—one for each letter of the alphabet! Did you know that chipmunks love to stay up past their bedtime? Or that dragons cry at happy endings? I bet you’d never have guessed that iguanas sometimes get homesick at sleepovers."
+},
+{
+  "_id": {
+    "$oid": "60fd4975af407a0d6383cfe6"
+  },
+  "book-title": "Anna Karenina",
+  "book-author": "Leo Tolstoy",
+  "book-ISBN": "9780075536321",
+  "book-pages": "964",
+  "book-brief-description": "Acclaimed by many as the world's greatest novel, Anna Karenina provides a vast panorama of contemporary life in Russia and of humanity in general. In it Tolstoy uses his intense imaginative insight to create some of the most memorable characters in all of literature. Anna is a sophisticated woman who abandons her empty existence as the wife of Karenin and turns to Count Vronsky to fulfil her passionate nature - with tragic consequences. Levin is a reflection of Tolstoy himself, often expressing the author's own views and convictions."
+},
+{
+  "_id": {
+    "$oid": "60fd49cdaf407a0d6383cfe7"
+  },
+  "book-title": "Blind Willow, Sleeping Woman",
+  "book-author": "Haruki Murakami",
+  "book-ISBN": "9781400044610",
+  "book-pages": "334",
+  "book-brief-description": "Collection of twenty-four stories that generously expresses Murakami’s mastery of the form. From the surreal to the mundane, these stories exhibit his ability to transform the full range of human experience in ways that are instructive, surprising, and relentlessly entertaining."
+},
+{
+  "_id": {
+    "$oid": "60fd4a12af407a0d6383cfe8"
+  },
+  "book-title": "The Elegance of the Hedgehog",
+  "book-author": "Muriel Barbery",
+  "book-ISBN": "9781933372600",
+  "book-pages": "325",
+  "book-brief-description": "Paloma and Renée hide both their true talents and their finest qualities from a world they suspect cannot or will not appreciate them. They discover their kindred souls when a wealthy Japanese man named Ozu arrives in the building. Only he is able to gain Paloma's trust and to see through Renée's timeworn disguise to the secret that haunts her. This is a moving, funny, triumphant novel that exalts the quiet victories of the inconspicuous among us."
+},
+{
+  "_id": {
+    "$oid": "60fd4a59af407a0d6383cfe9"
+  },
+  "book-title": "The Girl Who Kicked the Hornet’s Nest",
+  "book-author": "Stieg Larsson",
+  "book-ISBN": "9780307269997",
+  "book-pages": "566",
+  "book-brief-description": "Lisbeth Salander - the heart of Larsson's two previous novels - lies in critical condition, a bullet wound to her head, in the intensive care unit of a Swedish city hospital. She's fighting for her life in more ways than one: if and when she recovers, she'll be taken back to Stockholm to stand trial for three murders. With the help of her friend, journalist Mikael Blomkvist, she will not only have to prove her innocence, but also identify and denounce those in authority who have allowed the vulnerable, like herself, to suffer abuse and violence. And, on her own, she will plot revenge - against the man who tried to kill her, and the corrupt government institutions that very nearly destroyed her life."
+},
+{
+  "_id": {
+    "$oid": "60fd4ab8af407a0d6383cfea"
+  },
+  "book-title": "Third Girl",
+  "book-author": "Agatha Christie",
+  "book-ISBN": "9780007121106",
+  "book-pages": "365",
+  "book-brief-description": "Three young women share a London flat. The first is a coolly efficient secretary. The second is an artist. The third interrupts Hercule Poirot’s breakfast confessing that she is a murderer—and then promptly disappears. Slowly, Poirot learns of the rumors surrounding the mysterious third girl, her family, and her disappearance. Yet hard evidence is needed before the great detective can pronounce her guilty, innocent, or insane."
+}]
